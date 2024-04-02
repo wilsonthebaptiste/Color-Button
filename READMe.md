@@ -9,4 +9,5 @@ The youtube video for the tutorial I used is: https://www.youtube.com/watch?v=hI
 Below I will place 'Eurekas' which are takeaways from the project.
 
 Eurekas
-JS files must be placed in the body of the HTML file
+1.JS files must be placed in the body of the HTML file
+2.To add a function when you click a button, you must add 'onclick' to the button tag
